@@ -1,0 +1,32 @@
+{
+  "name": "saffrondrafts",
+  "version": "1.0.0",
+  "description": "Magic Drafts",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephsaffron/saffrondrafts.git"
+  },
+  "keywords": [
+    "mtg"
+  ],
+  "author": "jwong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephsaffron/saffrondrafts/issues"
+  },
+  "homepage": "https://github.com/josephsaffron/saffrondrafts#readme"
+}
